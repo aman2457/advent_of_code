@@ -13,7 +13,6 @@ fun main() {
     }
 
     fun part2(input: List<String>): Int {
-        println("Normal commit to check")
         return input.size
     }
 
